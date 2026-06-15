@@ -2979,7 +2979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 48.26 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3686,7 +3686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 181.61 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4193,7 +4193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 162.56 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4281,7 +4281,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 124.46 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6940,7 +6940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 143.51 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7028,7 +7028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 86.36 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7194,7 +7194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 67.31 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7440,7 +7440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 218.44 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7684,7 +7684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 199.39 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7772,7 +7772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 256.54 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8066,7 +8066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 237.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8651,7 +8651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 105.41 71.12 0)
 			(hide yes)
 			(show_name no)
